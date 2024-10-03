@@ -5,7 +5,7 @@ php environment.
 
 ## Install
 
-`composer require jvmtech-flowplatformsh`
+`composer require jvmtech/flow-platformsh-environment`
 
 ## Usage
 
