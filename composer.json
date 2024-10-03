@@ -1,6 +1,6 @@
 {
     "description": "",
-    "name": "jvmtech/flowplatformsh",
+    "name": "jvmtech/flow-platformsh-environment",
     "type": "neos-package",
     "require": {
         "neos/flow": "*",
@@ -19,7 +19,7 @@
     },
     "extra": {
         "neos": {
-            "package-key": "JvMTECH.FlowPlatformSh"
+            "package-key": "JvMTECH.FlowPlatformShEnvironment"
         }
     }
 }
