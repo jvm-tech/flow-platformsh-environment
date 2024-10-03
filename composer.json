@@ -2,6 +2,18 @@
     "description": "",
     "name": "jvmtech/flow-platformsh-environment",
     "type": "neos-package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michel Löw",
+            "email": "michel.loew@jvm.ch",
+            "homepage": "https://www.jvmtech.ch",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/jvm-tech/flow-platformsh-environment/issues"
+    },
     "require": {
         "neos/flow": "*",
         "m1/env": "^2.2.0",
