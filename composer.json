@@ -1,0 +1,25 @@
+{
+    "description": "",
+    "name": "jvmtech/flowplatformsh",
+    "type": "neos-package",
+    "require": {
+        "neos/flow": "*",
+        "m1/env": "^2.2.0",
+        "platformsh/config-reader": "^2.4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "JvMTECH\\FlowPlatformSh\\": "Classes/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "JvMTECH\\FlowPlatformSh\\Tests\\": "Tests/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "JvMTECH.FlowPlatformSh"
+        }
+    }
+}
